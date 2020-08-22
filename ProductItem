@@ -2,41 +2,49 @@
         {"productTitle": "Jal1",
         "productDescription": "jal1",
         "productImage":  "{brandIcon}",
-        "productPrice": 20
+        "productPrice": 20,
+        "productSubTitle": "Jal"
     },
     {"productTitle": "Jal1",
     "productDescription": "jal1",
     "productImage":  "{brandIcon}",
-    "productPrice": 20
+    "productPrice": 20,
+        "productSubTitle": "Jal"
     },
     {"productTitle": "Jal1",
     "productDescription": "jal1",
     "productImage":  "{brandIcon}",
-    "productPrice": 20
+    "productPrice": 20,
+        "productSubTitle": "Jal"
     },
     {"productTitle": "Jal1",
     "productDescription": "jal1",
     "productImage":  "{brandIcon}",
-    "productPrice": 20
+    "productPrice": 20,
+        "productSubTitle": "Jal"
     },
     {"productTitle": "Jal1",
     "productDescription": "jal1",
     "productImage":  "{brandIcon}",
-    "productPrice": 20
+    "productPrice": 20,
+        "productSubTitle": "Jal"
     },
     {"productTitle": "Jal1",
     "productDescription": "jal1",
     "productImage":  "{brandIcon}",
-    "productPrice": 20
+    "productPrice": 20,
+        "productSubTitle": "Jal"
     },
     {"productTitle": "Jal1",
     "productDescription": "jal1",
     "productImage":  "{brandIcon}",
-    "productPrice": 20
+    "productPrice": 20,
+        "productSubTitle": "Jal"
     },
     {"productTitle": "Jal1",
     "productDescription": "jal1",
     "productImage":  "{brandIcon}",
-    "productPrice": 20
+    "productPrice": 20,
+        "productSubTitle": "Jal"
     }
 ]
