@@ -1,0 +1,42 @@
+[
+        {productTitle: 'Jal1',
+        productDescription: 'jal1',
+        productImage:  {brandIcon},
+        productPrice: 20
+    },
+    {productTitle: 'Jal1',
+    productDescription: 'jal1',
+    productImage:  {brandIcon},
+    productPrice: 20
+    },
+    {productTitle: 'Jal1',
+    productDescription: 'jal1',
+    productImage:  {brandIcon},
+    productPrice: 20
+    },
+    {productTitle: 'Jal1',
+    productDescription: 'jal1',
+    productImage:  {brandIcon},
+    productPrice: 20
+    },
+    {productTitle: 'Jal1',
+    productDescription: 'jal1',
+    productImage:  {brandIcon},
+    productPrice: 20
+    },
+    {productTitle: 'Jal1',
+    productDescription: 'jal1',
+    productImage:  {brandIcon},
+    productPrice: 20
+    },
+    {productTitle: 'Jal1',
+    productDescription: 'jal1',
+    productImage:  {brandIcon},
+    productPrice: 20
+    },
+    {productTitle: 'Jal1',
+    productDescription: 'jal1',
+    productImage:  {brandIcon},
+    productPrice: 20
+    }
+]
